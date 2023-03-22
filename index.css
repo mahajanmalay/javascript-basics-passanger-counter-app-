@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-image: url("https://wallpapercave.com/wp/wp1926964.jpg");
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    color: goldenrod;
+}
+
+button{
+    width: 7rem;
+    background-color: goldenrod;
+    color: white;
+    padding: 0.2rem 1rem 0.2rem 1rem ;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+
+button:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+p{
+    font-weight: bolder;
+}
